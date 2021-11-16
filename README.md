@@ -4,7 +4,7 @@ Este projeto está estruturado com os assuntos relacionados às estruturas condi
 
 **Aulas**
 
-*[Aula 1 - Operadores e if ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-condicionais/commit/824df866254ab06e75d2c47781521ba1279ac63c)*
+*[Aula 1 - Operadores e if ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-condicionais/commit/ed3cfeceafa2dba067d232d7c11d1aa8c39429c7)*
 
 *[Aula 2 - Ternário e switch-case ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-condicionais/commit/)* 
 
