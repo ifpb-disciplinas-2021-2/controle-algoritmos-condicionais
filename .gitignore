@@ -3,3 +3,6 @@
 teste.c
 exemplo
 roteiro.txt
+teste
+a.in
+# ./teste < a.in
